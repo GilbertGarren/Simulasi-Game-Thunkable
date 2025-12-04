@@ -1,2 +1,2 @@
-# Projek-Online-Shop-HTML
-Proyek ini merupakan implementasi nyata dari pemahaman dasar pengembangan web. Proyek ini saya jalankan di bangku SMA menggunakan HTML untuk membangun struktur yang kokoh dan CSS untuk menciptakan estetika visual, saya merancang sebuah antarmuka Online Shop yang tidak hanya fungsional secara visual, tetapi juga intuitif bagi pengguna. Ini adalah langkah awal saya dalam memahami bagaimana sebuah website bekerja dari balik layar.
+# Simulasi-Game-Thunkable
+Proyek simulasi ini dirancang untuk mendemonstrasikan penerapan logika algoritma dalam pengembangan aplikasi mobile. Menggunakan platform Thunkable, saya menerjemahkan alur logika permainan yang kompleks menjadi susunan blok pemrograman visual. Fokus utama proyek ini adalah membangun mekanik permainan yang responsif serta memahami bagaimana input pengguna diproses menjadi output visual secara real-time.
