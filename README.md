@@ -1,1 +1,2 @@
 # Projek-Online-Shop-HTML
+Proyek ini merupakan implementasi nyata dari pemahaman dasar pengembangan web. Proyek ini saya jalankan di bangku SMA menggunakan HTML untuk membangun struktur yang kokoh dan CSS untuk menciptakan estetika visual, saya merancang sebuah antarmuka Online Shop yang tidak hanya fungsional secara visual, tetapi juga intuitif bagi pengguna. Ini adalah langkah awal saya dalam memahami bagaimana sebuah website bekerja dari balik layar.
